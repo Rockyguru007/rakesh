@@ -1,0 +1,9 @@
+{
+	"name": "Rk-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b715a111-1929-48fe-a5a1-67bebba8bf3c",
+		"tenantId": "aeac0ab8-f591-4292-a11f-a85ba0162ac6"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "sap-selfhost",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": true
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"name": "rak-selfhost",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
